@@ -11,12 +11,3 @@ http://200.126.115.156:8000/play/a0iw/index.m3u8
 #EXTINF:-1 tvg-name="Canal Once" tvg-logo:"https://vignette.wikia.nocookie.net/logopedia/images/e/e7/Canal_11_Honduras_2011_2.png/revision/latest?cb=20170727174557.svg.png" group-title="entretenimiento" ,Canal Once
 
 https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
-
-#EXTINF:-1 tvg-name="Adult Swim" tvg-logo:"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/1280px-Adult_Swim_2003_logo.svg.png" group-title="entretenimiento" ,Adult Swim
-
-https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream.m3u8
-
-
-
-
-
