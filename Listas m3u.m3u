@@ -8,7 +8,7 @@ http://200.126.115.156:8000/play/a0jx/index.m3u8
 
 http://200.126.115.156:8000/play/a0iw/index.m3u8
 
-#EXTINF:-1 tvg-name="Canal Once" tvg-logo:"https://upload.wikimedia.org/wikipedia/commons/3/32/Canal_11_HN_logo_2010.png" group-title="Entretenimiento" ,CANAL ONCE
+#EXTINF:-1 tvg-name="Canal Once" tvg-logo:"https://www.oncenoticias.hn/wp-content/uploads/2018/11/LOGO-CANAL-11--990x660.jpg" group-title="Entretenimiento" ,CANAL ONCE
 
 https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
 
@@ -16,7 +16,7 @@ https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
 
 https://cloud2.streaminglivehd.com:1936/8026/8026/playlist.m3u8
 
-#EXTINF:-1 tvg-name="VEVO LATINO" tvg-logo:"https://upload.wikimedia.org/wikipedia/commons/8/87/Vevo_logo.svg.png" group-title="Musica" ,VEVO LATINO
+#EXTINF:-1 tvg-name="VEVO LATINO" tvg-logo:"https://upload.wikimedia.org/wikipedia/commons/f/f0/Vevo_2016_Logo.svg" group-title="Musica" ,VEVO LATINO
 
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
 
