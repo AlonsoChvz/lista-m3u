@@ -27,3 +27,7 @@ https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CocF7TSj6gQPC-aAPrUf68gUw3w
 #EXTINF:-1 tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="Infantil" ,Boomerang
 
 https://vsd106.mycdn.me:443/hls/2425269389867.m3u8/sig/WZv6JDXIe2I/expires/1654313948680/srcIp/190.92.84.36/clientType/0/srcAg/CHROME_ANDROID/mid/4123310628395/2425269389867_high/index.m3u8
+
+#EXTINF:-1 tvg-name="SPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Espn.png/800px-Espn.png" group-title="Deportes" ,SPN
+
+https://edge-live11-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
