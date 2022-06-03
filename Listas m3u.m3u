@@ -8,11 +8,11 @@ http://200.126.115.156:8000/play/a0jx/index.m3u8
 
 https://edge-live11-hr.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetwork.m3u8
 
-#EXTINF:-1 tvg-name="Canal Once" tvg-logo:"//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Canal_11_HN_logo_2010.png/190px-Canal_11_HN_logo_2010.png" group-title="Entretenimiento" ,Canal Once
+#EXTINF:-1 tvg-name="Canal Once" tvg-logo:"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Canal_11_HN_logo_2010.png/800px-Canal_11_HN_logo_2010.png" group-title="Nacional" ,Canal Once
 
 https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
 
-#EXTINF:-1 tvg-name="GOLDEN LA" tvg-logo:"//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/992px-Logo_Golden_TV.svg.png" group-title="Peliculas" ,GOLDEN
+#EXTINF:-1 tvg-name="GOLDEN LA" tvg-logo:"https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="Peliculas" ,GOLDEN
 
 https://cloud2.streaminglivehd.com:1936/8026/8026/playlist.m3u8
 
