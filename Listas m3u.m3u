@@ -6,7 +6,7 @@ http://200.126.115.156:8000/play/a0jx/index.m3u8
 
 #EXTINF:-1 tvg-name="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Cartoon_Network_logo_%282004-2010%29.svg/182px-Cartoon_Network_logo_%282004-2010%29.svg.png" group-title="Infantil" ,Cartoon Network
 
-http://200.126.115.156:8000/play/a0iw/index.m3u8
+https://edge-live11-hr.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetwork.m3u8
 
 #EXTINF:-1 tvg-name="Canal Once" tvg-logo:"//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Canal_11_HN_logo_2010.png/190px-Canal_11_HN_logo_2010.png" group-title="Entretenimiento" ,Canal Once
 
@@ -22,4 +22,8 @@ https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CqAFGyrwgOk5tVv_JYtWXBPJWnt
 
 #EXTINF:-1 tvg-name="Nickelodeon LA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="Infantil" ,Nickelodeon LA
 
-https://edge-live11-hr.cvattv.com.ar/live/c3eds/Nickelodeon/SA_SAGEMCOM/Nickelodeon.m3u8
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CocF7TSj6gQPC-aAPrUf68gUw3wA60KRW6R91fjysI_a9PbzvITmMcrDzpzJlAJzOvknSKvifcK5WA3d1aZBH6-JhJfX0fgW9f2pF8--pJphVtVdtT5KAh_5JKpeR3KCnJ3YA5Y7dvIYiggcnb_ISm1aodUySH0loVQqdms_X9u5LU5ZbSxBg4VXr65lK3pj7qKvnxmEL3pd8GcsvUSMIzKQ4_Md-X5rBRXvzyYD5GztBrW4X3VR1fkLhjrHWE_NjB8KSQJBYb4fPySN7M5gHFrtXiMluCrg-lZ-UFIkQAJ6-meRahmPpD5AqYW2DBKbCioQPHGsQ1D-VQZjf7DdWqJ1Uj-zBS--FQpnjgN6tgGaOEX19b_DlbmivcOAr_UYpViYrLdBn1qzTlBmlsGBCWX1ILflxy2tz7akvmgNicxTSckEq9VZsLMnrzPYZ1bp1bsFW35rSN-NZaOEUxO3RN_DoVdiTgePTjV0QSwr715WSKilfwMdBrBAR9o5GivPc-kEQSxIyNcDt-OVgIZoC9Zeh4L0Na7fw1D5meaCuRk9kn6IGDdWHmHEDaQTj1MLJI4SvSmaLXNkV5EG6mnh7pnZ-Xv2hPC9J6RJoxbUowbHRJJDXNNzM2wsEy0ARG6Wfrv_35MuyC72uocu3xQMmLsw0mNmyWexcB79rrafJYsoaXcrypoxhkx2NCJn3DNHMSaITlU_f4d2-cbSz6U62OizyM43sdqkdgV-ZEpr6gX5dFBv74bUE_HmCWePUFGA8gvjD7ITZJZgpdvVOLGyNTLotY5mbATl5TZMUifjuY2siLC8Pfznu_HcVcTJxT1q75H2UJa4ksRemz329-rg083vu7BXQ53od9kaDP7EmjI-M6Eo9l4XMyABKglldS13ZXN0LTIw7wM.m3u8
+
+#EXTINF:-1 tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="Infantil" ,Boomerang
+
+https://vsd106.mycdn.me:443/hls/2425269389867.m3u8/sig/WZv6JDXIe2I/expires/1654313948680/srcIp/190.92.84.36/clientType/0/srcAg/CHROME_ANDROID/mid/4123310628395/2425269389867_high/index.m3u8
