@@ -59,3 +59,6 @@ https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/422px-HBO_logo.svg.png" group-title="Cine" ,HBO
 
 https://vsd150.mycdn.me/hls/2470750259783.m3u8/sig/oGs9N3qjyLY/expires/1654388965461/srcIp/45.4.87.48/clientType/0/srcAg/CHROME_ANDROID/mid/5521882488391/video.m3u8?p
+
+#EXTINF:-1 tvg-name="Multi Premiere" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/100px-Multipremier_logo.svg.png" group-title="Cine Mayor" ,Multi Premiere
+
