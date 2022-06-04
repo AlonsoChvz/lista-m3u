@@ -62,3 +62,6 @@ https://vsd150.mycdn.me/hls/2470750259783.m3u8/sig/oGs9N3qjyLY/expires/165438896
 
 #EXTINF:-1 tvg-name="Multi Premiere" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/100px-Multipremier_logo.svg.png" group-title="Cine Mayor" ,Multi Premiere
 
+#EXTINF:-1 tvg-name="Sony HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Canal_Sony_logo_monochrome.svg/100px-Canal_Sony_logo_monochrome.svg.png" group-title="Cine" ,Sony HD
+
+https://edge-live15-hr.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
