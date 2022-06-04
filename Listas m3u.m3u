@@ -70,6 +70,8 @@ https://edge-live15-hr.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
 
 https://sv09.pelisfile.net/videos/hls/qE2jHm4872RzIDWrAQHO1Q/1654321313/26528/d60aaea67ef7b41a121602d990a05271/EP.0.1.v0.1654064273.1080.m3u8
 
-#EXTINF:-1 tvg-name="Moon Knight 01x01" tvg-logo="" group-title="Series 2022" ,Moon Knight 01x01
+#EXTINF:-1 tvg-name="Moon Knight 01x01" tvg-logo="https://img.goldposter.com/2022/03/moon-knight_poster_goldposter_com_14.jpg?x-oss-process=image/resize,m_fill,h_1500,w_996/quality,q_80" group-title="Series 2022" ,Moon Knight 01x01
 
 https://sv05.pelisfile.net/videos/hls/gZMUz5i1veWRCvpBUX7Cyw/1654323544/141314/45f09d3237d6c788e1cd8bd208d49ea2/EP.1.0.v0.1653937892.m3u8
+
+#EXTINF:-1 tvg-name="Moon Knight 01x02" tvg-logo="https://img.goldposter.com/2022/03/moon-knight_poster_goldposter_com_14.jpg?x-oss-process=image/resize,m_fill,h_1500,w_996/quality,q_80" group-title="Series 2022" ,Moon Knight 01x02
