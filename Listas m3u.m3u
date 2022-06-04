@@ -14,7 +14,7 @@ https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
 
 #EXTINF:-1 tvg-name="GOLDEN LA" tvg-logo:"https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="Cine" ,GOLDEN
 
-https://cloud2.streaminglivehd.com:1936/8026/8026/playlist.m3u8
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/73_.m3u8?token=DvqElyHRpwHs6jo_E65g7A&expires=1654328480&ip=190.92.84.47
 
 #EXTINF:-1 tvg-name="Los Simpson 24/7" tvg-logo="https://televisionlibre.net/img/logo_canal/Los_Simpsons.png" group-title="Entretenimiento" ,Los Simpson 24/7
 
@@ -60,8 +60,35 @@ https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 
 https://vsd150.mycdn.me/hls/2470750259783.m3u8/sig/oGs9N3qjyLY/expires/1654388965461/srcIp/45.4.87.48/clientType/0/srcAg/CHROME_ANDROID/mid/5521882488391/video.m3u8?p
 
-#EXTINF:-1 tvg-name="Multi Premiere" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/100px-Multipremier_logo.svg.png" group-title="Cine Mayor" ,Multi Premiere
+#EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png" group-title="Cine" ,Cinemax
 
+https://edge-live15-hr.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax-avc1_2499968=10001.m3u8
+
+#EXTINF:-1 tvg-name="Cinecanal" tvg-logo="https://es.wikipedia.org/wiki/Cinecanal#/media/Archivo:CinecanalLA.png" group-title="Cine" ,Cinecanal
+
+https://edge-live15-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD-avc1_3900000=10004.m3u8
+
+#EXTINF:-1 tvg-name="Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Universal_Pictures_logo.svg/800px-Universal_Pictures_logo.svg.png" group-title="Cine" ,Universal
+
+https://edge-live15-hr.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD-avc1_3000000=10004.m3u8
+
+#EXTINF:-1 tvg-name="Studio Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/606px-Logo_Studio_Universal.svg.png" group-title="Cine" ,Studio Universal
+
+https://edge2-sl.cvattv.com.ar/live/c6eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal-avc1_3000000=10004.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Cine" ,
+
+
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Cine" ,
+
+
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Cine" ,
+
+
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Cine" ,
 
 
 
