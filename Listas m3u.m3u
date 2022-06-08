@@ -14,7 +14,7 @@ https://edge-live11-hr.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/Carto
 
 #EXTINF:-1 tvg-name="GOLDEN LA" tvg-logo:"https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="Cine" ,GOLDEN
 
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/73_.m3u8?token=DvqElyHRpwHs6jo_E65g7A&expires=1654328480&ip=190.92.84.47
+http://190.92.95.37:8000/play/a0rh/index.m3u8
 
 #EXTINF:-1 tvg-name="Los Simpson 24/7" tvg-logo="https://televisionlibre.net/img/logo_canal/Los_Simpsons.png" group-title="Entretenimiento" ,Los Simpson 24/7
 
@@ -66,15 +66,15 @@ https://edge-live15-hr.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax-avc1
 
 #EXTINF:-1 tvg-name="Cinecanal" tvg-logo="https://es.wikipedia.org/wiki/Cinecanal#/media/Archivo:CinecanalLA.png" group-title="Cine" ,Cinecanal
 
-https://edge-live15-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD-avc1_3900000=10004.m3u8
+http://190.92.95.37:8000/play/a0sl/index.m3u8
 
-#EXTINF:-1 tvg-name="Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Universal_Pictures_logo.svg/800px-Universal_Pictures_logo.svg.png" group-title="Cine" ,Universal
+#EXTINF:-1 tvg-name="Universal Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Universal_Pictures_logo.svg/800px-Universal_Pictures_logo.svg.png" group-title="Cine" ,Universal Cinema
 
-https://edge-live15-hr.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD-avc1_3000000=10004.m3u8
+http://190.92.95.37:8000/play/a0v2/index.m3u8
 
 #EXTINF:-1 tvg-name="Studio Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/606px-Logo_Studio_Universal.svg.png" group-title="Cine" ,Studio Universal
 
-https://edge2-sl.cvattv.com.ar/live/c6eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal-avc1_3000000=10004.m3u8
+http://190.92.95.37:8000/play/a0q2/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Cine" ,
 
@@ -126,7 +126,7 @@ http://190.92.95.37:8000/play/a0sk/index.m3u8
 
 #EXTINF:-1 tvg-name="Pasante de Moda(2015)" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/d/d9/Pasante_De_Moda_Poster.jpg/revision/latest/scale-to-width-down/337?cb=20151006150710&path-prefix=es" group-title="peliculas HD" ,Pasante de moda(2015)
 
-
+https://mk293p.dood.video/u5kj7m2i2xhlsdgge5lwqlqeialqjy6uy3gphywwhiq5nulkk6pkwvkax42a/0sus2417sx~736Jqlh00k?token=xgo4v9ktn36cxi0hqz3mcnxf&expiry=1654728499753
 
 #EXTINF:-1 tvg-name="Moon Knight 01x01" tvg-logo="https://img.goldposter.com/2022/03/moon-knight_poster_goldposter_com_14.jpg?x-oss-process=image/resize,m_fill,h_1500,w_996/quality,q_80" group-title="Series 2022" ,Moon Knight 01x01
 
