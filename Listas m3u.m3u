@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/787px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="Noticias" ,CNN Espanol
 
-http://200.126.115.156:8000/play/a0jx/index.m3u8
+
 
 #EXTINF:-1 tvg-name="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Cartoon_Network_logo_%282004-2010%29.svg/182px-Cartoon_Network_logo_%282004-2010%29.svg.png" group-title="Infantil" ,Cartoon Network
 
@@ -10,7 +10,7 @@ https://edge-live11-hr.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/Carto
 
 #EXTINF:-1 tvg-name="Canal Once" tvg-logo:"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Canal_11_HN_logo_2010.png/800px-Canal_11_HN_logo_2010.png" group-title="Nacional" ,Canal Once
 
-https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
+
 
 #EXTINF:-1 tvg-name="GOLDEN LA" tvg-logo:"https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="Cine" ,GOLDEN
 
@@ -118,41 +118,41 @@ https://stream-07.dc3.dailymotion.com/sec(6TMM0QrMj9Q4IwNZkxGVRP2j4M6h1auG2FYmYQ
 
 #EXTINF:-1 tvg-name="Warner Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/280px-Warner_Channel.svg.png" group-title="Cine" ,Warner Channel
 
-https://edge-live15-hr.cvattv.com.ar/live/c7eds/WarnerHD/SA_SAGEMCOM/WarnerHD-avc1_3000000=10004.m3u8
+http://190.92.95.37:8000/play/a0tk/index.m3u8
 
 #EXTINF:-1 tvg-name="Sony HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Canal_Sony_logo_monochrome.svg/100px-Canal_Sony_logo_monochrome.svg.png" group-title="Cine" ,Sony HD
 
-https://edge-live15-hr.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
+http://190.92.95.37:8000/play/a0sk/index.m3u8
 
 #EXTINF:-1 tvg-name="Pasante de Moda(2015)" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/d/d9/Pasante_De_Moda_Poster.jpg/revision/latest/scale-to-width-down/337?cb=20151006150710&path-prefix=es" group-title="peliculas HD" ,Pasante de moda(2015)
 
-https://sv09.pelisfile.net/videos/hls/qE2jHm4872RzIDWrAQHO1Q/1654321313/26528/d60aaea67ef7b41a121602d990a05271/EP.0.1.v0.1654064273.1080.m3u8
+
 
 #EXTINF:-1 tvg-name="Moon Knight 01x01" tvg-logo="https://img.goldposter.com/2022/03/moon-knight_poster_goldposter_com_14.jpg?x-oss-process=image/resize,m_fill,h_1500,w_996/quality,q_80" group-title="Series 2022" ,Moon Knight 01x01
 
-https://sv05.pelisfile.net/videos/hls/gZMUz5i1veWRCvpBUX7Cyw/1654323544/141314/45f09d3237d6c788e1cd8bd208d49ea2/EP.1.0.v0.1653937892.m3u8
+
 
 #EXTINF:-1 tvg-name="Moon Knight 01x02" tvg-logo="https://img.goldposter.com/2022/03/moon-knight_poster_goldposter_com_14.jpg?x-oss-process=image/resize,m_fill,h_1500,w_996/quality,q_80" group-title="Series 2022" ,Moon Knight 01x02
 
-https://sv08.pelisfile.net/videos/hls/8SkNQH3GTFI_sx6_-7uIkg/1654325805/141857/45f09d3237d6c788e1cd8bd208d49ea2/EP.2.0.v0.1653942732.m3u8
+
 
 #EXTINF:-1 tvg-name="Moon Knight 01x03" tvg-logo="https://img.goldposter.com/2022/03/moon-knight_poster_goldposter_com_14.jpg?x-oss-process=image/resize,m_fill,h_1500,w_996/quality,q_80" group-title="Series 2022" ,Moon Knight 01x03
 
-https://sv10.pelisfile.net/videos/hls/tWotxUHCRlhubD7QZrJ0bg/1654326043/142539/45f09d3237d6c788e1cd8bd208d49ea2/EP.3.0.v0.1653940303.m3u8
+
 
 #EXTINF:-1 tvg-name="Moon Knight 01x04" tvg-logo="https://img.goldposter.com/2022/03/moon-knight_poster_goldposter_com_14.jpg?x-oss-process=image/resize,m_fill,h_1500,w_996/quality,q_80" group-title="Series 2022" ,Moon Knight 01x04
 
-https://sv02.pelisfile.net/videos/hls/af_c4OR6JYhQ3zb4WaFNbg/1654326072/143151/45f09d3237d6c788e1cd8bd208d49ea2/EP.4.0.v0.1653967103.m3u8
+
 
 #EXTINF:-1 tvg-name="Moon Knight 01x05" tvg-logo="https://img.goldposter.com/2022/03/moon-knight_poster_goldposter_com_14.jpg?x-oss-process=image/resize,m_fill,h_1500,w_996/quality,q_80" group-title="Series 2022" ,Moon Knight 01x05
 
-https://sv01.pelisfile.net/videos/hls/ZBdpv_QsywQ0TRTIEY3PxA/1654326100/144110/45f09d3237d6c788e1cd8bd208d49ea2/EP.5.0.v0.1654008782.m3u8
+
 
 #EXTINF:-1 tvg-name="Moon Knight 01x06" tvg-logo="https://img.goldposter.com/2022/03/moon-knight_poster_goldposter_com_14.jpg?x-oss-process=image/resize,m_fill,h_1500,w_996/quality,q_80" group-title="Series 2022" ,Moon Knight 01x06
 
-https://sv03.pelisfile.net/videos/hls/C6PV_HrQ-gfJOZC3maSJmw/1654326127/145182/45f09d3237d6c788e1cd8bd208d49ea2/EP.6.0.v0.1653986774.m3u8
+
 
 #EXTINF:-1 tvg-name="Spiderman NWH(2021)" tvg-logo="https://static.wikia.nocookie.net/disneyypixar/images/c/ce/Spider-Man_No_Way_Home_Poster_3.png/revision/latest/scale-to-width-down/337?cb=20220106033116&path-prefix=es" group-title="peliculas HD" ,Spiderman NWH(2021)
 
-https://s8.zplayer.live/hls/,5fxcu77qx2nufvsa6i6e7vgnwthpsvf6xnik3iabvcxc5gv6vtfndqd3hgcq,.urlset/master.m3u8
+
 
